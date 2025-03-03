@@ -4,7 +4,7 @@
   </a>
 </div>
 
-![ ](https://github.com/GAOHANqq/GAOHANqq/blob/output/github-contribution-grid-snake.svg)
+![测试](https://github.com/GAOHANqq/GAOHANqq/blob/output/github-contribution-grid-snake.svg)
 
 ### 个人简介
 - 🐕 姓名: 高建平
@@ -15,7 +15,7 @@
 - 🥑 公众号: 【九思小站】
 
 ### 仓库信息
-![技术栈](https://github-readme-stats.vercel.app/api/top-langs/?username=javadog-net&layout=compact&theme=tokyonight)   
+![技术栈](https://github-readme-stats.vercel.app/api/top-langs/?username=GAOHANqq&layout=compact&theme=tokyonight)   
 
 ### 博客简介
 
