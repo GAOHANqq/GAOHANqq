@@ -4,7 +4,7 @@
   </a>
 </div>
 
-![暗色](https://github.com/GAOHANqq/GAOHANqq/output/github-contribution-grid-snake-dark.svg)
+![暗色](https://github.com/GAOHANqq/GAOHANqq/blob/output/github-contribution-grid-snake-dark.svg)
 
 ### 个人简介
 - 🐕 姓名: 高建平
