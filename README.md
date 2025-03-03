@@ -20,7 +20,6 @@
 
 ### 博客简介
 
-| JavaDog| 狗屋地址 |
 | :----:| :----: | 
 | 个人博客 | [https://blog.xjjswh.cn/](https://blog.xjjswh.cn/) | 
 | GitHub|[https://github.com/GAOHANqq](https://github.com/GAOHANqq)| 
