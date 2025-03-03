@@ -4,7 +4,7 @@
   </a>
 </div>
 
-![](https://github.com/GAOHANqq/GAOHANqq/blob/output/github-contribution-grid-snake.svg)
+![ ](https://github.com/GAOHANqq/GAOHANqq/blob/output/github-contribution-grid-snake.svg)
 
 ### 个人简介
 - 🐕 姓名: 高建平
