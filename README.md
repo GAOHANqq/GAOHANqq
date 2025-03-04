@@ -12,7 +12,7 @@
 - 👦 性别: 男
 - 🧭 年龄: 30
 - 🌏 现居: 陕西西安
-- 📞 ![4E7F21C3](https://github.com/user-attachments/assets/7674cb0f-f636-4194-b629-6e9d4fbf0d2f)
+- ![4E7F21C3](https://github.com/user-attachments/assets/7674cb0f-f636-4194-b629-6e9d4fbf0d2f)
 : 1271448267@qq.com
 - 🥑 公众号: 【九思小站】
 
