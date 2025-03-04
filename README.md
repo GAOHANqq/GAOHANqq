@@ -12,10 +12,8 @@
 - 👦 性别: 男
 - 🧭 年龄: 30
 - 🌏 现居: 陕西西安
-- - 🥑 公众号: 【九思小站】
-- ![4E7F21C3](https://github.com/user-attachments/assets/7674cb0f-f636-4194-b629-6e9d4fbf0d2f?size=16)
-: 1271448267@qq.com
-
+- 📬 邮箱: 1271448267@qq.com
+- 🥑 公众号: 【九思小站】
 
 ### 仓库信息
 ![技术栈](https://github-readme-stats.vercel.app/api/top-langs/?username=GAOHANqq&layout=compact&theme=tokyonight)   
