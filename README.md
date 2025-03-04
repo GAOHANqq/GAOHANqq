@@ -12,8 +12,9 @@
 - 👦 性别: 男
 - 🧭 年龄: 30
 - 🌏 现居: 陕西西安
-- 📬 邮箱: 1271448267@qq.com | gaojianping2025@outlook.com
 - 🥑 公众号: 【九思小站】
+- 📬 邮箱: 1271448267@qq.com | gaojianping2025@outlook.com
+
 
 ### 仓库信息
 ![技术栈](https://github-readme-stats.vercel.app/api/top-langs/?username=GAOHANqq&layout=compact&theme=tokyonight)   
