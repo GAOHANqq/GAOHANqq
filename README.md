@@ -23,5 +23,7 @@
 | 标题 | 地址 | 
 | :----:| :----: | 
 | 个人博客 | [https://blog.xjjswh.cn/](https://blog.xjjswh.cn/) | 
-| GitHub|[https://github.com/GAOHANqq](https://github.com/GAOHANqq)| 
+| GitHub | [https://github.com/GAOHANqq](https://github.com/GAOHANqq)| 
+| 简历 | [https://resume.xjjswh.cn/](https://resume.xjjswh.cn/)| 
+
 
